@@ -10,10 +10,15 @@ A Flutter-based mobile application that combines two main features:
 ## 📂 Project Structure
 lib/
 ├── main.dart # App entry point with bottom navigation
+
 ├── quiz.dart # Quiz screen logic and layout
+
 ├── question.dart # Question & answer models
+
 ├── answer.dart # Answer button widget
+
 ├── score.dart # Score result screen
+
 ├── weather.dart # Weather screen logic and API integration
 
 ---
